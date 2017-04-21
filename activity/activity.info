@@ -1,0 +1,7 @@
+[Activity]
+name = Tetris Mat 
+activity_version = 2
+host_version = 1
+bundle_id = org.laptop.community.tetrismat
+icon = activity
+exec = sugar-activity activity.Activity
